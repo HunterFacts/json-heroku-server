@@ -5,7 +5,7 @@
         "id": "1",
         "attributes": {
           "fio": "Алексей Алексеевич Алексеев",
-          "numberPerformances": 5,
+          "number-performances": 5,
           "about": "Разработчик на проектах ДИС",
           "status": "Докладчик",
           "year": 2020
@@ -16,7 +16,7 @@
         "id": "2",
         "attributes": {
           "fio": "Сергеей Сергеевич",
-          "numberPerformances": 1,
+          "number-performances": 1,
           "about": "Разработчик на проектах ЦОТ",
           "status": "Докладчик",
           "year": 2019
@@ -27,7 +27,7 @@
         "id": "3",
         "attributes": {
           "fio": "Виктор Викторович",
-          "numberPerformances": 12,
+          "number-performances": 12,
           "about": "Разработчик на проектах ИИС",
           "status": "Эксперт",
           "year": 2016
