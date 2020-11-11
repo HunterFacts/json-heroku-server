@@ -4,21 +4,33 @@
       {
         "id": "1",
         "attributes": {
-          "fio": "Алексей Алексеевич Алексеев"
+          "fio": "Алексей Алексеевич Алексеев",
+          "numberPerformances": 5,
+          "about": "Разработчик на проектах ДИС",
+          "status": "Докладчик",
+          "year": 2020
         },
         "type": "speakers"
       },
       {
         "id": "2",
         "attributes": {
-          "fio": "Сергеей Сергеевич"
+          "fio": "Сергеей Сергеевич",
+          "numberPerformances": 1,
+          "about": "Разработчик на проектах ЦОТ",
+          "status": "Докладчик",
+          "year": 2019
         },
         "type": "speakers"
       },
       {
         "id": "3",
         "attributes": {
-          "fio": "Виктор Викторович"
+          "fio": "Виктор Викторович",
+          "numberPerformances": 12,
+          "about": "Разработчик на проектах ИИС",
+          "status": "Эксперт",
+          "year": 2016
         },
         "type": "speakers"
       }
